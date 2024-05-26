@@ -1,6 +1,7 @@
 # rn-assignment2-11047613
 
 # STUDENT ID : 11047613
+
 # Create a new React Native blank template project using Expo CLI.
  In the App.js file in your project:
 - Change the background color of the View component.
@@ -9,4 +10,5 @@
 - Make the name "YourName" bold (e.g., if your name is John, it should appear as
 "My name is John").
 
-![AppScreenshot](https://github.com/JD-2104/rn-assignment2-11047613/assets/151099828/77b8469c-05e7-4a2b-ab0a-505a86e04181)
+
+![AppScreenshot](https://github.com/JD-2104/rn-assignment2-11047613/assets/151099828/43dddef5-9ca8-445c-9544-d4c88a655d79)
